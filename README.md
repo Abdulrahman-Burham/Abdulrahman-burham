@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I’m passionate about technology, software develo
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 ---
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abdulrahman-Burham/count.svg?"  />
+</div>
+
+###
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I frequently use:
