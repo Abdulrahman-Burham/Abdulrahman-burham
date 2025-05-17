@@ -42,7 +42,7 @@ Here are some of my favorite projects:
 
 ## 🤝 Let’s Connect
 Feel free to reach out or connect with me on:
-- [LinkedIn](#)https://www.linkedin.com/in/abdulrahmanburham/
+- [LinkedIn]( https://www.linkedin.com/in/abdulrahmanburham/)
 - [Twitter](#)
 - [Your Website/Portfolio](#)
 
