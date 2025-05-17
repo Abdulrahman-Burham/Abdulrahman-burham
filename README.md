@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m passionate about technology, software develo
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: **[Your Current Projects/Focus]**
-- 🌱 I’m learning: **[Technologies or Skills You're Learning]**
+- 🌱 I’m learning: **Deep learning**
 - 💬 Ask me about: **[Your Areas of Expertise]**
-- 📫 How to reach me: **[Your Contact Info or Email]**
+- 📫 How to reach me: **Burhamabdo11@gmail.com**
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 ---
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I’m passionate about technology, software develo
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I frequently use:
-- **Languages:** [Add the programming languages you are proficient in, e.g., Python, JavaScript, etc.]
-- **Frameworks/Libraries:** [e.g., React, Django, etc.]
-- **Tools:** [e.g., Git, Docker, etc.]
+- **Languages:** Python, C++
+- **Frameworks/Libraries:** Pytorch, Opencv 
+- **Tools:** Git, Docker,
 
 ---
 
@@ -42,7 +42,7 @@ Here are some of my favorite projects:
 
 ## 🤝 Let’s Connect
 Feel free to reach out or connect with me on:
-- [LinkedIn](#)
+- [LinkedIn](#)https://www.linkedin.com/in/abdulrahmanburham/
 - [Twitter](#)
 - [Your Website/Portfolio](#)
 
