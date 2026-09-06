@@ -47,10 +47,10 @@
 ### 🤝 Volunteering & Community Leadership
 
 - **Microsoft Student Communities:**
-  - **Beta Microsoft Learn Student Ambassador**
-  - **Operation Lead & Coordinator** @ Microsoft Student Club / MLSA Kafr El Sheikh
+  - **Senior Microsoft Student Ambassador**
+  - **Ex-Operation Lead & Coordinator** @ Microsoft Student Club / MLSA Kafr El Sheikh
 - **Huawei Cloud Northern Africa:**
-  - **Huawei Cloud Ambassador** & **HCDG Member**
+  - **Ex-Huawei Cloud Ambassador** & **HCDG Member**
 - **Student Organizations & Tech Communities:**
   - **Ex-Vice President** @ AI Pioneers Student Organization
   - **Ex-Head of Talent Management & Ex-Vice HR** @ Rally Delta University
